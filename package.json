@@ -1,0 +1,8 @@
+{
+	"version" : "0.0.1",
+	"name" : "graphdb",
+	"description" : "Graph DB",
+	"dependencies" : {
+		"redis" : "0.10.0"
+	}
+}

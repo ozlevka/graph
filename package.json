@@ -3,6 +3,7 @@
 	"name" : "graphdb",
 	"description" : "Graph DB",
 	"dependencies" : {
-		"redis" : "0.10.0"
+		"redis" : "0.10.0",
+		"async" : "0.2.9"
 	}
 }
